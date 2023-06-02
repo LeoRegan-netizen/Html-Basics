@@ -421,6 +421,15 @@ ___
 * The <dl> tag defines a description list
 * The <dl> tag is used in conjunction with <dt> (defines terms/names) and <dd> (describes each term/name).
 ___
+
+ ## TAG-40 Defines
+## Syntax
+```
+ <dt>Coffee</dt>
+ ```
+ * The <dt> tag defines a term/name in a description list.
+ * The <dt> tag is used in conjunction with <dl> (defines a description list) and <dd> (describes each term/name)
+ ___
 ## TAG-40 Defines
 ## Syntax
 ```
@@ -429,8 +438,6 @@ ___
  * The <dt> tag defines a term/name in a description list.
  * The <dt> tag is used in conjunction with <dl> (defines a description list) and <dd> (describes each term/name)
  ___
- 
-
 
  
  
